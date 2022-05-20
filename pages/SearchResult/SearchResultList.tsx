@@ -5,7 +5,7 @@ import { Header } from '../../src/components/Header/Header';
 import Link from 'next/link';
 import { SearchMainLayouts } from '../../src/components/Layouts/SearchMainLayouts';
 
-const SearchResultList = (props) => {
+const SearchResultList = () => {
     console.log("result clicked!");
   return (
       <>

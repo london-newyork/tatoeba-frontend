@@ -1,5 +1,4 @@
-import { NextRouter, useRouter } from 'next/router'
-import { ParsedUrlQuery } from 'querystring'
+import { useRouter } from 'next/router'
 import { useRecoilState } from 'recoil'
 import { Words } from '../types/types'
 import { WordsAtom } from '../utils/atoms/WordsAtom'

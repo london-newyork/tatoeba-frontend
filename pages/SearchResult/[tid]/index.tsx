@@ -13,7 +13,7 @@ const SearchResult = () => {
   return (
       <>
       <Head>
-        <title>Tatoeba 例え話 検索結果</title>
+        <title>Tatoeba 例え話詳細</title>
         <link rel='favicon.ico' />
       </Head>
       <Header />
@@ -22,11 +22,6 @@ const SearchResult = () => {
             <div
             className='flex flex-col'
             >
-               <small
-               className="text-gray-400"
-               >
-                 検索結果
-               </small>
                <div
                className='
                flex
@@ -47,13 +42,13 @@ const SearchResult = () => {
               {shortParaphrase}
             </h2>
             <p className="
-            pt-10
+            py-12
             text-md
             leading-loose
             text-gray-600">
               {description}
             </p>
-            <div className='max-w-[600px] h-96 bg-gray-300 mx-auto'>
+            <div className='max-w-[600px] h-96 bg-gray-300 mx-auto mb-32'>
               <img />
               </div>
           </div>
