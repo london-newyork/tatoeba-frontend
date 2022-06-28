@@ -24,7 +24,7 @@ https://github.com/london-newyork/tatoeba-api-prisma
 
 CRUD処理/検索/(タグによるソート機能)/eメールによるメール認証・ログイン認証/API設計/(APIによる画像登録)/
 
-他のユーザーからの評価機能/Express、Curl、SQL文などを使った、APIのHTTP通信
+他のユーザーからの評価機能/バックエンドの基礎力を向上させるため、Express、Curl、SQL文などを使った、APIのHTTP通信
 
 # 使用技術
 
