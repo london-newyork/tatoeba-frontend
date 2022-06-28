@@ -6,20 +6,29 @@
 
 ※こちらは[Prisma不使用版]フロントエンドのみのリポジトリです。
 
-バックエンドを含むリポジトリはこちら
+-----
 
+[Prisma不使用版]バックエンドを含むリポジトリ
 https://github.com/london-newyork/tatoeba-api
+
+[Prisma版]フロントエンドリポジトリ
+https://github.com/london-newyork/tatoeba-frontend-prisma
+
+[Prisma版]バックエンドを含むリポジトリ
+https://github.com/london-newyork/tatoeba-api-prisma
+
+-----
 
 
 ### このアプリでの機能および主なやったこと
 
-CRUD処理/検索/タグによるソート機能/eメールによるメール認証・ログイン認証/API設計/APIによる画像登録/他のユーザーからの評価機能
+CRUD処理/検索/タグによるソート機能/eメールによるメール認証・ログイン認証/API設計/APIによる画像登録/他のユーザーからの評価機能/Prismaを使ったマイグレーション
 
 # 使用技術
 
 ### 言語とツール等
 
-Next.js/React/TypeScript/Tailwind CSS
+Next.js/React/TypeScript/Tailwind CSS/
 
 ### ライブラリ等
 
