@@ -24,17 +24,17 @@ https://github.com/london-newyork/tatoeba-api-prisma
 
 CRUD処理/検索/(タグによるソート機能)/eメールによるメール認証・ログイン認証/API設計/(APIによる画像登録)/
 
-他のユーザーからの評価機能/バックエンドの基礎力を向上させるため、Express、Curl、SQL文などを使った、APIのHTTP通信
+他のユーザーからの評価機能/バックエンドの基礎力をつけるため、Express、Curl、SQL文などを使った、APIのHTTP通信/設計(オニオンアーキテクチャ)
 
 # 使用技術
 
-### 言語とツール等
+### 言語とツール等(フロントエンド)
 
 Next.js/React/TypeScript/Tailwind CSS
 
 ### ライブラリ等
 
-Recoil/next-router/next-link
+Recoil/next-router/next-link(フロントエンド)
 
 - Next.js
 
