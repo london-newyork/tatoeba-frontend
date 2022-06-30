@@ -1,14 +1,14 @@
-# [Prisma不使用版]アプリ概要
+# [Express+MySQL版]アプリ概要
 
 **オリジナルアプリ「Tatoeba」。**
 
 **わかりにくい話をわかりやすく例える、「例え話を支援する」アプリです。**
 
-※こちらは[Prisma不使用版]フロントエンドのみのリポジトリです。
+※こちらは[Express+MySQL版]フロントエンドのみのリポジトリです。
 
 -----
 
-[Prisma不使用版]バックエンドを含むリポジトリ
+[Express+MySQL版]バックエンドを含むリポジトリ
 https://github.com/london-newyork/tatoeba-api
 
 [Prisma版]フロントエンドリポジトリ
